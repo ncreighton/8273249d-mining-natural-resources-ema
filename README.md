@@ -22,8 +22,6 @@ Stop wasting hours crafting individualized mining prospecting emails—your outr
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://propathacademy.gumroad.com/l/ztbqq)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/bJe14nh1B7Eog887jCcZo1V)** — Secure checkout
 
 ## Installation
@@ -35,7 +33,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://propathacademy.gumroad.com/l/ztbqq)
 
 ## License
 
